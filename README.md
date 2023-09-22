@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-2
+# Credit-Card-Fraud-Detection
 
 The dataset for this project was taken from Kaggle.
 
