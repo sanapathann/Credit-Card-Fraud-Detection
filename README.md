@@ -1,4 +1,4 @@
-Caution: The following repository was subitted as part of my MSc Dissertation, Hence, the project is under the University. One cannot use this as part of their own major/mini projects as it was already submitted by me. If the following work has been used by sombody else, I will have to report it as "unauthorised copying/project already built scenario" to your university/college. This repository is the intellectual property of the author and is only shared for the purpose of my Dissertation. Kindly refrain from using the work as your own. 
+# CAUTION: _The following repository was subitted as part of my MSc Dissertation, Hence, the project is under the University. One cannot use this as part of their own major/mini projects as it was already submitted by me. If the following work has been used by sombody else, I will have to report it as "unauthorised copying/project already built scenario" to your university/college. This repository is the intellectual property of the author and is only shared for the purpose of my Dissertation. Kindly refrain from using the work as your own._ 
    
 # Credit-Card-Fraud-Detection
 
